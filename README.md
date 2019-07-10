@@ -15,7 +15,7 @@ Four techniques are provided. The first three are triangle-box intersection test
 1- **Explicit edge tests**: Use edge fuctions to explicitly test each edge of triangle. 27 tests/voxel.<br>
 2- **Schwarz-Seidel tests**: Recent paper that uses a reduced, efficient set of edge tests. 9 tests/voxel.<br>
 3- **Akenine-Moller tests**: The first paper to provide efficient, exact voxelization. 18 tests/voxel.<br>
-4- **DDA Rasterizer**: Starts at one corner and scans along the edges, performing a DDA (2D differential analyzer) to fill the interior of the triangle in 3D. This technique is much faster for voxelization as it only visits interior voxels.<br>
+4- **DDA Rasterizer**: Starts at one corner and scans along the edges, performing a DDA (2D differential analyzer) to fill the interior of the triangle in 3D. This technique is much faster for voxelization as it only visits voxels on the triangle.<br>
 
 Sources:<br>
 Schwarz & Seidel, 2010, Fast Parallel Surface and Solid Voxelization on GPUs, http://research.michael-schwarz.com/publ/files/vox-siga10.pdf<br>
