@@ -17,10 +17,10 @@ Four techniques are provided. The first three are triangle-box intersection test
 3- **Akenine-Moller tests**: The first paper to provide efficient, exact voxelization. 18 tests/voxel.<br>
 4- **DDA Rasterizer**: Starts at one corner and scans along the edges, performing a DDA (2D differential analyzer) to fill the interior of the triangle. This technique is much faster for voxelization as it only visits interior voxels.<br>
 
-Sources:
-Schwarz & Seidel, 2010, Fast Parallel Surface and Solid Voxelization on GPUs, http://research.michael-schwarz.com/publ/files/vox-siga10.pdf
-Akenine-Moller, 2001, Fast 3D Triangle-Box Overlap Testing, https://fileadmin.cs.lth.se/cs/Personal/Tomas_Akenine-Moller/pubs/tribox.pdf
-Pineda, 1998, A Parallel Algorithm for Polygon Rasterization (Edge Functions),  https://www.cs.drexel.edu/~david/Classes/Papers/comp175-06-pineda.pdf
+Sources:<br>
+Schwarz & Seidel, 2010, Fast Parallel Surface and Solid Voxelization on GPUs, http://research.michael-schwarz.com/publ/files/vox-siga10.pdf<br>
+Akenine-Moller, 2001, Fast 3D Triangle-Box Overlap Testing, https://fileadmin.cs.lth.se/cs/Personal/Tomas_Akenine-Moller/pubs/tribox.pdf<br>
+Pineda, 1998, A Parallel Algorithm for Polygon Rasterization (Edge Functions),  https://www.cs.drexel.edu/~david/Classes/Papers/comp175-06-pineda.pdf<br>
 
 <br><br>
 Rama Hoetzlein (c) 2019
