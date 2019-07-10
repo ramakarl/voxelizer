@@ -23,7 +23,7 @@ Akenine-Moller, 2001, Fast 3D Triangle-Box Overlap Testing, https://fileadmin.cs
 Pineda, 1998, A Parallel Algorithm for Polygon Rasterization (Edge Functions),  https://www.cs.drexel.edu/~david/Classes/Papers/comp175-06-pineda.pdf<br>
 
 Citation of this work:<br>
-Citation of this code in papers or projects is appreciated.
+Citation of this code in papers or projects is appreciated.<br>
 2019. Hoetzlein, Rama. Voxelization of a triangle in 3D. https://github.com/ramakarl/voxelizer
 
 <br><br>
