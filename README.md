@@ -5,7 +5,7 @@ Voxelizer
 by Rama Hoetzlein (ramakarl.com)
 This code is licensed CC0, public domain
 <br><br>
-The interface lets you move the vertices of the triangle.
+The interface lets you move the vertices of the triangle.<br>
 Use A,S,D,F or space to change the technique.
 <br><br>
 Code gives the basic math for the 3D voxelization of a triangle.
