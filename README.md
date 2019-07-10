@@ -3,7 +3,7 @@
 Voxelizer
 ------------------------------------------------
 by Rama Karl Hoetzlein, http://ramakarl.com<br>
-This code is licensed CC0, public domain
+This code is licensed CC0, public domain. (Interface helpers are BSD 3-clause)
 <br><br>
 The interface lets you move the vertices of the triangle.<br>
 Use A,S,D,F or space to change the technique.
