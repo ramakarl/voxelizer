@@ -3,6 +3,7 @@
 // Voxelizer
 // Copyright Rama Hoetzlein (c) 2019
 // This work is licensed as CC0, public domain with no restrictions
+// Helpers (nvgui) are BSD 3-clause
 //-----------------------------------------------------------------
 
 // Sample utils
