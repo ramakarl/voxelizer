@@ -1,6 +1,6 @@
 ![image](https://github.com/ramakarl/voxelizer/blob/master/voxelizer.jpg)
 
-Voxelizer
+## Voxelizer
 ------------------------------------------------
 by Rama Karl Hoetzlein, http://ramakarl.com<br>
 This code is licensed CC0, public domain. (Interface helpers are BSD 3-clause)
@@ -25,7 +25,7 @@ Pineda, 1998, A Parallel Algorithm for Polygon Rasterization (Edge Functions),  
 Citation of this code when used in papers or projects is appreciated:<br>
 2019. Hoetzlein, Rama. *Voxelization of a triangle in 3D*. https://github.com/ramakarl/voxelizer
 
-# How to Build
+### How to Build
 
 1. Run cmake in \libmin
 2. Build the solution for libmin
