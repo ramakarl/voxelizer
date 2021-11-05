@@ -29,7 +29,7 @@ Citation of this code when used in papers or projects is appreciated:<br>
 
 1. Run cmake in \libmin
 2. Build the solution for libmin
-3. Run camke in \math_voxelizer
+3. Run cmake in \math_voxelizer
 4. During cmake it should find libmin. If not, set the LIBMIN_ROOT_DIR
 4. Build the solution. Run it.
 
