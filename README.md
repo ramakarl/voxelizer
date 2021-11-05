@@ -6,7 +6,7 @@ by Rama Karl Hoetzlein, http://ramakarl.com<br>
 This code is licensed CC0, public domain. (Interface helpers are BSD 3-clause)
 <br><br>
 The interface lets you move the vertices of the triangle.<br>
-Use A,S,D,F or space to change the technique.
+Use 1,2,3,4 keys to change the Algorithm.
 <br><br>
 Code gives the basic math for the 3D voxelization of a triangle.
 <br><br>
@@ -24,6 +24,14 @@ Pineda, 1998, A Parallel Algorithm for Polygon Rasterization (Edge Functions),  
 
 Citation of this code when used in papers or projects is appreciated:<br>
 2019. Hoetzlein, Rama. *Voxelization of a triangle in 3D*. https://github.com/ramakarl/voxelizer
+
+# How to Build
+
+1. Run cmake in \libmin
+2. Build the solution for libmin
+3. Run camke in \math_voxelizer
+4. During cmake it should find libmin. If not, set the LIBMIN_ROOT_DIR
+4. Build the solution. Run it.
 
 <br><br>
 Rama Hoetzlein (c) 2019
